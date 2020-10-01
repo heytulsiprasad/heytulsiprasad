@@ -21,4 +21,4 @@ I'm an out-of-the-box frontend developer and open saucer :pizza:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-![steve-rogers-gif](https://media1.giphy.com/media/OxbgqAAIfeXNS/giphy.gif)
+<!-- ![steve-rogers-gif](https://media1.giphy.com/media/OxbgqAAIfeXNS/giphy.gif) -->
