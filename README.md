@@ -1,9 +1,9 @@
 ### Hi there :wave: I'm Tulsi Prasad
 
-I'm an out-of-the-box frontend developer and open saucer :pizza:
+I'm an creative and *out-of-the-box* :muscle: MERN Stack Developer (**specialize in frontend**) and open saucer :pizza:
 
-- 🔭 I’m currently working on my blog [Wirescript](https://wirescript.now.sh)
-- 🌱 I’m currently learning and writing about [Advanced JavaScript](https://wirescript.now.sh/blog) concepts
+- 🔭 I’m currently working on an ECommerce Platform (using [Shopify](https://www.shopify.com/)) for a startup
+- 🌱 Meanwhile I'm also learning and writing about [Advanced JavaScript](https://wirescript.now.sh/blog) concepts
 - 💬 Ask me about anything [here](https://github.com/heytulsiprasad/heytulsiprasad/issues)
 - 📫 I usually hangout on [Twitter](https://twitter.com/heytulsiprasad)
 - 😄 Pronouns: He / Him / Bro
