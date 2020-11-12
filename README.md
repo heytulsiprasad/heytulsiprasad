@@ -2,12 +2,12 @@
 
 I'm an creative and *out-of-the-box* :muscle: MERN Stack Developer (**specialize in frontend**) and open saucer :pizza:
 
-- 🔭 I’m currently working on an ECommerce Platform (using [Shopify](https://www.shopify.com/)) for a startup
-- 🌱 Meanwhile I'm also learning and writing about [Advanced JavaScript](https://wirescript.now.sh/blog) concepts
-- 💬 Ask me about anything [here](https://github.com/heytulsiprasad/heytulsiprasad/issues)
-- 📫 I usually hangout on [Twitter](https://twitter.com/heytulsiprasad)
+- :muscle: I’m currently exploring [Shopify](https://www.shopify.com/) and [Gatsby](https://www.gatsbyjs.com/) at work
+- 🌱 Meanwhile I'm also building more chrome extensions
+- 💬 Join me and my friends on [Wirescript Discord](https://bit.ly/wirescript)
+- 📫 I share what I think on [Twitter](https://twitter.com/heytulsiprasad)
 - 😄 Pronouns: He / Him / Bro
-- ⚡ You can reach me via Twitter [DM](https://twitter.com/heytulsiprasad) or [Telegram](https://t.me/heytulsiprasad)
+- ⚡ You can reach me via Twitter [DM](https://twitter.com/heytulsiprasad) or [Discord](https://bit.ly/wirescript)
 
 </br>
 
