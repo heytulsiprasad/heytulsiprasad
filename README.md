@@ -13,8 +13,8 @@ I'm an creative and *out-of-the-box* :muscle: MERN Stack Developer (**specialize
 
 **Socials**
 
-![Discord](https://img.shields.io/discord/775573977078169640?color=blue&label=Discord%20%7C%20Wirescript)
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/heytulsiprasad?style=social" />
+<a href="https://twitter.com/intent/follow?screen_name=heytulsiprasad"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/heytulsiprasad?style=social" /></a>
+<a href="https://bit.ly/wirescript"><img alt="Discord" src="https://img.shields.io/discord/775573977078169640?color=blue&label=Discord%20%7C%20Wirescript" /></a>
 
 **Languages and Tools:**  
 
