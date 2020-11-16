@@ -11,6 +11,11 @@ I'm an creative and *out-of-the-box* :muscle: MERN Stack Developer (**specialize
 
 </br>
 
+**Socials**
+
+![Discord](https://img.shields.io/discord/775573977078169640?color=blue&label=Discord%20%7C%20Wirescript)
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/heytulsiprasad?style=social" />
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
