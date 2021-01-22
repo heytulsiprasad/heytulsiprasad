@@ -2,7 +2,7 @@
 
 I'm a **Frontend Dev 👨‍💻 + UI craftsman 💖**, in love with React, Redux and Open Saucing :pizza:
 
-- 💪 I’m currently working on [Shopify](https://www.shopify.com/) + [Gatsby](https://www.gatsbyjs.com/) for an ecommerce project
+- 💪 I’m currently working on Shopify for an [ecommerce](butterme.in) project
 - 🌱 Meanwhile I'm journaling my hardships and findings on my [blog](https://wirescript.now.sh)
 - 💬 Join me and my friends on [Wirescript Discord](https://bit.ly/wirescript)
 - 📫 I share what I think on [Twitter](https://twitter.com/heytulsiprasad)
