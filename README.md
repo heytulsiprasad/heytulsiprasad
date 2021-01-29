@@ -1,10 +1,10 @@
 ### Hi there :wave: I'm Tulsi Prasad
 
-I'm a **Frontend Dev 👨‍💻 + UI craftsman 💖**, in love with React, Redux and Open Saucing :pizza:
+I'm a **Frontend Dev 👨‍💻 + Content Creator :book:** with love for developing tools for productivity
 
-- 💪 I’m currently working on Shopify for an [ecommerce](https://butterme.in) project
-- 🌱 Meanwhile I'm journaling my hardships and findings on my [blog](https://wirescript.now.sh)
-- 💬 Join me and my friends on [Wirescript Discord](https://bit.ly/wirescript)
+- 💪 I’m currently working on [Lazzzy](https://bit.ly/lazzzy-co), an extension that saves your reading progress.
+- 🌱 Meanwhile I'm sharing my new learnings on my [blog](https://wirescript.now.sh).
+- 💬 Join me and my friends on [Wirescript Discord](https://bit.ly/wirescript2)
 - 📫 I share what I think on [Twitter](https://twitter.com/heytulsiprasad)
 - 😄 Pronouns: He / Him / Bro
 - ⚡ You can reach me via Twitter [DM](https://twitter.com/heytulsiprasad) or [Discord](https://bit.ly/wirescript2)
