@@ -7,7 +7,7 @@ I'm a **Frontend Dev 👨‍💻 + UI craftsman 💖**, in love with React, Redu
 - 💬 Join me and my friends on [Wirescript Discord](https://bit.ly/wirescript)
 - 📫 I share what I think on [Twitter](https://twitter.com/heytulsiprasad)
 - 😄 Pronouns: He / Him / Bro
-- ⚡ You can reach me via Twitter [DM](https://twitter.com/heytulsiprasad) or [Discord](https://bit.ly/wirescript)
+- ⚡ You can reach me via Twitter [DM](https://twitter.com/heytulsiprasad) or [Discord](https://bit.ly/wirescript2)
 
 </br>
 
