@@ -39,7 +39,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=heytulsiprasad&count_private=true&show_icons=true&theme=nightowl" />
 </a>
 <a href="https://github.com/heytulsiprasad/heytulsiprasad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heytulsiprasad&layout=compact" />
 </a>
 
 <br />
