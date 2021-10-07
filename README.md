@@ -27,7 +27,7 @@
 
 <br />
 
-- 👜 &nbsp;I'm currently as a Frontend intern at [Unifize](https://unifize.com/)
+- 👜 &nbsp;I'm currently working as a Frontend intern at [Unifize](https://unifize.com/)
 - 📒 &nbsp; I document my learnings on my [Dev blog](https://dev.to/heytulsiprasad)
 - :seedling: &nbsp;I’m currently learning **Typescript and GraphQL**
 - :speech_balloon: &nbsp;I like to talk about **frontend stuff** and **benefits of blogging**.
