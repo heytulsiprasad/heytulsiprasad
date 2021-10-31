@@ -1,6 +1,6 @@
 
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Tulsi Prasad</h1>
-<p align="left">I'm a self-taught developer, passionate about Frontend ecosystem and the only morning person I've met <a href="https://twitter.com/intent/tweet?text=Hey%20@heytulsiprasad%2C%20you%27re%20not%20the%20only%20morning%20person%20I%20know%20of.%20I%20love%20fresh%20new%20mornings%20as%20well%21%20%3C3">(change my mind)</a>. Currently studying from home (SFH) as a third year undergrad while working as a frontend intern at Unifize, building the next gen communications app for manufacturing industries.</p>
+<p align="left">I'm a self-taught developer, passionate about Frontend ecosystem and the only morning person I know of <a href="https://twitter.com/intent/tweet?text=Hey%20@heytulsiprasad%2C%20you%27re%20not%20the%20only%20morning%20person%20I%20know%20of.%20I%20love%20fresh%20new%20mornings%20as%20well%21%20%3C3">(change my mind)</a>. Currently studying from home as an undergrad while working as a Frontend Intern at Unifize, building the next gen communications app for manufacturing industries.</p>
 
 <br />
 <br />
