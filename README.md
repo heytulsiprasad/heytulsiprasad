@@ -1,6 +1,10 @@
 
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Tulsi Prasad</h1>
-<p align="left">I'm a self-taught developer, passionate about Frontend ecosystem and the only morning person I know of <a href="https://twitter.com/intent/tweet?text=Hey%20@heytulsiprasad%2C%20you%27re%20not%20the%20only%20morning%20person%20I%20know%20of.%20I%20love%20fresh%20new%20mornings%20as%20well%21%20%3C3">(change my mind)</a>. Currently studying from home as an undergrad while working as a Frontend Intern at Unifize, building the next gen communications app for manufacturing industries.</p>
+<p align="left">
+
+Hey there! 👋 I'm Tulsi, a fullstack developer doing specifically frontend work in web and mobile in React/React Native ecosystem. Although I like to code all the time, but apart from that you might find me, waking up before others, doing personal development work and writing content on the internet. Coffee and mechanical keyboards are the weapon of my choice. ⚔
+
+</p>
 
 <br />
 <br />
@@ -27,11 +31,10 @@
 
 <br />
 
-- 👜 &nbsp;I'm currently working as a Frontend intern at [Unifize](https://unifize.com/)
-- 📒 &nbsp; I document my learnings on my [Dev blog](https://dev.to/heytulsiprasad)
-- :seedling: &nbsp;I’m currently learning **Typescript and GraphQL**
-- :speech_balloon: &nbsp;I like to talk about **frontend stuff** and **benefits of blogging**.
-- :mailbox: &nbsp;Ask me anything through [Twitter](https://twitter.com/heytulsiprasad) or [LinkedIn](https://linkedin.com/in/heytulsiprasad)
+- 📒 &nbsp; I document my learnings on [Dev.to](https://dev.to/heytulsiprasad)
+- :seedling: &nbsp;I’m currently learning **Typescript**, **GraphQL** and **backend programming** as well.
+- ☕ &nbsp;I like to talk about **frontend stuff** and **self development** content, over a cup of coffee.
+- :mailbox: &nbsp;Ask me anything - DMs open [@heytulsiprasad](https://twitter.com/heytulsiprasad)
   
 <br />
 
