@@ -9,14 +9,6 @@ Hey there! 👋 I'm Tulsi, a fullstack developer doing specifically frontend wor
 <br />
 <br />
 
-<a href="https://twitter.com/thebuildguy">
-  <img align="right" alt="Tulsi Prasad | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/heytulsiprasad">
-  <img align="right" alt="Tulsi Prasad | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-
-
 <p align="left">
   <a href="https://github.com/heytulsiprasad/heytulsiprasad">
     <img src="https://komarev.com/ghpvc/?username=heytulsiprasad" alt="page views" />
