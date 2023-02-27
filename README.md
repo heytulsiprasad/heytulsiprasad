@@ -31,10 +31,10 @@ Hey there! 👋 I'm Tulsi, a fullstack developer doing specifically frontend wor
 
 <br />
 
-- 📒 &nbsp; I document my learnings on [Dev.to](https://dev.to/heytulsiprasad)
+- 📒 &nbsp; I document my learnings on [Dev.to](https://dev.to/thebuildguy)
 - :seedling: &nbsp;I’m currently learning **Typescript**, **GraphQL** and **backend programming** as well.
 - ☕ &nbsp;I like to talk about **frontend stuff** and **self development** content, over a cup of coffee.
-- :mailbox: &nbsp;Ask me anything - DMs open [@heytulsiprasad](https://twitter.com/heytulsiprasad)
+- :mailbox: &nbsp;Ask me anything - DMs open [@thebuildguy](https://twitter.com/thebuildguy)
   
 <br />
 
