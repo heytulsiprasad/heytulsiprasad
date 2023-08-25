@@ -112,11 +112,11 @@ Hey there! 👋 I'm Tulsi, a fullstack developer doing specifically frontend wor
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://www.twitter.com/heytulsiprasad">
-<img src="https://img.shields.io/badge/heytulsiprasad-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+<a href="https://www.twitter.com/thebuildguy">
+<img src="https://img.shields.io/badge/thebuildguy-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
 </a>
 
-<a href="https://www.twitch.tv/devgonemad">
+<a href="https://www.twitch.tv/thebuildguy">
 <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
 </a>
 
